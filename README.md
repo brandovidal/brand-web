@@ -1,5 +1,11 @@
 # brando vidal
-*Esta es una pagina de presentación*
+*Esta es una pagina creada con HTML, CSS y JS*
 
-![Portada] (https://ik.imagekit.io/demoxd/portada_QIE44pSJM.jpg?tr=w-1080,h-566,fo-auto "Portada")
+
+## Previsualizacion de la página:
+![Portada](https://ik.imagekit.io/demoxd/portada_QIE44pSJM.jpg?tr=w-1080,h-566,fo-auto "Portada")
+
+
+## Enlace de la página:
+[Preview]: https://draconcode.github.io/brandovidal
 
